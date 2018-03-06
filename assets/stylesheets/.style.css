@@ -1,0 +1,51 @@
+* {
+	font-family: 'Pacifico', cursive;
+}
+
+body {
+	background-color: gray;
+}
+
+.sub-header {
+	background-color: white;
+	color: purple;
+	padding: 10px;
+	margin: 5px;
+}
+
+#main-header {
+	text-align: center;
+	color: pink;
+	background-color: black;
+	padding: 15px;
+	margin: 2px;
+}
+
+p {
+	background-color: black;
+	color: white;
+}
+
+a:hover {
+	text-decoration: overline;
+	color: red;
+}
+
+.big-text {
+	font-size: 20px;
+}
+
+.square {
+	width: 100px;
+	height: 100px;
+	background: white;
+}
+
+.circle {
+	width: 100px;
+	height: 100px;
+	background: white;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
